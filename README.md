@@ -13,7 +13,7 @@ ProjFind is a project collaboration platform designed to assist university stude
 
 ![Project Image](/assets/projfind.jfif)
 
-[Demo](#) | [GitHub Repo](https://github.com/ANANTH-SWAMY/projfind/)
+[GitHub Repo](https://github.com/ANANTH-SWAMY/projfind/)
 
 ### Project 2: Chat App using Socket Programming
 
@@ -23,16 +23,15 @@ Chat Socket Programming for Two Users: A network application developed using com
 
 ![Project Image](/assets/socketchat.jfif)
 
-[Demo](#) | [GitHub Repo](https://github.com/ANANTH-SWAMY/socket-chat)
+[GitHub Repo](https://github.com/ANANTH-SWAMY/socket-chat)
 
 ### Project 3: ML Based Water Leakage Detection software for Water Supply Infrastructure
 
 #### Description
 Crafting ML-powered Water Leakage Detection software to safeguard water supply infrastructure through advanced analytics
 
-![Project Image]()
 
-[Demo](#) | [GitHub Repo](https://github.com/sujay1844/override)
+ [GitHub Repo](https://github.com/sujay1844/override)
 
 ## Contact Me
 
