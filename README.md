@@ -6,45 +6,38 @@ Hey there! I'm Anirudh, a passionate developer. I am a computer science student 
 
 ## Projects
 
-### Project 1: Project Name
+### Project 1: ProjFind
+
+#### Description
+ProjFind is a project collaboration platform designed to assist university students in finding projects to collaborate on with other students.
+
+![Project Image](/assets/projfind.jpg)
+
+[Demo](#) | [GitHub Repo](#)
+
+### Project 2: Chat App using Socket Programming
 
 #### Description
 
-A brief description of your project, highlighting its purpose, technologies used, and your role in its development.
+Chat Socket Programming for Two Users: A network application developed using computer network principles facilitating real-time communication between two users via socket connections
 
 ![Project Image]()
 
 [Demo](#) | [GitHub Repo](#)
 
-### Project 2: Project Name
+### Project 3: ML Based Water Leakage Detection software for Water Supply Infrastructure
 
 #### Description
-
-A brief description of your project, highlighting its purpose, technologies used, and your role in its development.
+Crafting ML-powered Water Leakage Detection software to safeguard water supply infrastructure through advanced analytics
 
 ![Project Image]()
 
 [Demo](#) | [GitHub Repo](#)
-
-### Project 2: Project Name
-
-#### Description
-
-A brief description of your project, highlighting its purpose, technologies used, and your role in its development.
-
-![Project Image]()
-
-[Demo](#) | [GitHub Repo](#)
-
-
-
-<!-- Add more projects as needed -->
-
 
 ## Contact Me
 
 Feel free to get in touch with me. Let's collaborate!
 
-- Email: [youremail@example.com](mailto:youremail@example.com)
-- LinkedIn: [Your LinkedIn Profile]([https://www.linkedin.com/in/yourusername](https://www.linkedin.com/in/anirudh-parsi-kamalakar))
+- Email: [My Email](mailto:anirudhpkofficial@gmail.com)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/anirudh-parsi-kamalakar)
 
