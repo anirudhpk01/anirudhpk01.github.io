@@ -11,7 +11,7 @@ Hey there! I'm Anirudh, a passionate developer. I am a computer science student 
 #### Description
 ProjFind is a project collaboration platform designed to assist university students in finding projects to collaborate on with other students.
 
-![Project Image](/assets/projfind.jpg)
+![Project Image](/assets/projfind.jfif)
 
 [Demo](#) | [GitHub Repo](#)
 
@@ -21,7 +21,7 @@ ProjFind is a project collaboration platform designed to assist university stude
 
 Chat Socket Programming for Two Users: A network application developed using computer network principles facilitating real-time communication between two users via socket connections
 
-![Project Image]()
+![Project Image](socketchat.jfif)
 
 [Demo](#) | [GitHub Repo](#)
 
