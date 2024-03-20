@@ -21,7 +21,7 @@ ProjFind is a project collaboration platform designed to assist university stude
 
 Chat Socket Programming for Two Users: A network application developed using computer network principles facilitating real-time communication between two users via socket connections
 
-![Project Image](socketchat.jfif)
+![Project Image](/assets/socketchat.jfif)
 
 [Demo](#) | [GitHub Repo](https://github.com/ANANTH-SWAMY/socket-chat)
 
