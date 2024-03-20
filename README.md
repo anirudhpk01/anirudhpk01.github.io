@@ -20,7 +20,6 @@ title: Portfolio
 </section>
 
 <!-- Projects Section -->
-<section class="projects">
     <div class="container">
         <h2>Projects</h2>
 
@@ -65,7 +64,6 @@ title: Portfolio
         </div>
 
     </div>
-</section>
 
 
 
@@ -75,8 +73,8 @@ title: Portfolio
         <h2>Contact Me</h2>
         <p>Feel free to get in touch with me. Let's collaborate!</p>
         <ul class="contact-links">
-            <li>Email: <a href="mailto:anirudhpkofficial@gmail.com">youremail@example.com</a></li>
-            <li>LinkedIn: <a href="https://www.linkedin.com/in/anirudh-parsi-kamalakar">Your LinkedIn Profile</a></li>
+            <li>Email: <a href="mailto:anirudhpkofficial@gmail.com">anirudhpkofficial@gmail.com</a></li>
+            <li>LinkedIn: <a href="https://www.linkedin.com/in/anirudh-parsi-kamalakar">My LinkedIn Profile</a></li>
         </ul>
     </div>
 </section>
